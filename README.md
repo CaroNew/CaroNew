@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaroNew
 - 👀 I’m interested in programming, and everything related to technology! 
-- 🌱 I’m currently learning front and backend develop, i'm improving my skills in c language.
+- 🌱 I’m currently learning front and backend develop, bash and i'm improving my skills in c language.
 
 <!---
 CaroNew/CaroNew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
